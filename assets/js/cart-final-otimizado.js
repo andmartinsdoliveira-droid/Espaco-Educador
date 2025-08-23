@@ -18,7 +18,7 @@
 const CartConfig = {
   STORAGE_KEY: 'espacoEducador_carrinho',
   MAX_QUANTITY: 1, // Máximo 1 item por produto (evita duplicatas)
-  BACKEND_URL: window.BACKEND_URL || 'https://script.google.com/macros/s/AKfycbzRSWab1AwiLhDYy_IxrPg0gh2G9BAGqFF02YMFlV_AArOS7h0rFmn2UfN-gFKtubSgZQ/exec',
+  BACKEND_URL: window.BACKEND_URL || 'https://script.google.com/macros/s/AKfycbxDSO1gSAHbedobLk_q_MGCFlonlwyU1AT5PP2q5__H-pdt-qbQLlss5rNY_MpCUGsNgQ/exec',
   MERCADO_PAGO_PUBLIC_KEY: 'SUA_PUBLIC_KEY_AQUI'
 };
 
